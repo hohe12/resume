@@ -11,11 +11,8 @@
 
 ---
 
-# Skills
-
- ○ Java
-
- ○ Javascript
+# Front-end Skills
+○ Javascript
 
  ○ JQuery
 
@@ -24,6 +21,14 @@
  ○ CSS
 
  ○ Ajax
+ 
+ # Back-end Skills
+
+ ○ Java
+ 
+ ○ Springframework
+ 
+ ○ Spring-boot
 
  ○ Tibero
 
